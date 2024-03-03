@@ -25,7 +25,7 @@ export function MovieProvider({ children }) {
   const [user, setUser] = useAuthState(auth);
   const navigate = useNavigate();
 
-  const APIKEY = "d6278b3dc3e6f8f8376a89851c3f8c8f";
+  const APIKEY = "API KEY";
 
 
   useEffect(() => {
