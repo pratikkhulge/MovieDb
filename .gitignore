@@ -23,3 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 development.env
+
+# Ignore .env files
+*.env
